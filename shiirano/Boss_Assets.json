@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-639,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BossIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-47,
+				24
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BossUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				-29
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BossDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				16
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BossLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-23
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BossRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-638,
+				0
+			],
+			"loop": false,
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "BossAltIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-24
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BossAltRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-27
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "BossAltDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				15
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "BossAltLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-47,
+				24
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "BossAltUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BossAwaken",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boss_Assets",
+	"position": [
+		-500,
+		0
+	],
+	"healthicon": "parents",
+	"flip_x": false,
+	"healthbar_colors": [
+		196,
+		94,
+		174
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ConnorIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				20
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ConnorUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-18
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ConnorDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-9
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ConnorLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ConnorRight"
+		},
+		{
+			"offsets": [
+				32,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "ConnorScream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GPepperedConnor",
+	"position": [
+		-190,
+		0
+	],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

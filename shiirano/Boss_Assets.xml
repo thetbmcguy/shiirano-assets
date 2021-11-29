@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boss_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BossAltDown0000" x="0" y="0" width="586" height="659" frameX="0" frameY="-5" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0001" x="586" y="0" width="561" height="663" frameX="-9" frameY="-1" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0002" x="1147" y="0" width="562" height="664" frameX="-12" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0003" x="1709" y="0" width="563" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0004" x="2272" y="0" width="562" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0005" x="2834" y="0" width="561" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0006" x="2834" y="0" width="561" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0007" x="2834" y="0" width="561" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0008" x="2834" y="0" width="561" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0009" x="2834" y="0" width="561" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0010" x="2834" y="0" width="561" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0011" x="2834" y="0" width="561" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0012" x="2834" y="0" width="561" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0013" x="2834" y="0" width="561" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltDown0014" x="2834" y="0" width="561" height="664" frameX="-13" frameY="0" frameWidth="586" frameHeight="664"/>
+	<SubTexture name="BossAltIdle0000" x="3395" y="0" width="537" height="662" frameX="0" frameY="-11" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0001" x="3932" y="0" width="514" height="668" frameX="-9" frameY="-5" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0002" x="4446" y="0" width="498" height="670" frameX="-15" frameY="-3" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0003" x="4944" y="0" width="495" height="671" frameX="-15" frameY="-2" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0004" x="5439" y="0" width="495" height="672" frameX="-15" frameY="-1" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0005" x="5934" y="0" width="495" height="673" frameX="-15" frameY="0" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0006" x="6429" y="0" width="495" height="673" frameX="-15" frameY="0" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0007" x="6924" y="0" width="495" height="673" frameX="-15" frameY="0" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0008" x="6924" y="0" width="495" height="673" frameX="-15" frameY="0" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0009" x="6924" y="0" width="495" height="673" frameX="-15" frameY="0" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0010" x="6924" y="0" width="495" height="673" frameX="-15" frameY="0" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0011" x="6924" y="0" width="495" height="673" frameX="-15" frameY="0" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0012" x="6924" y="0" width="495" height="673" frameX="-15" frameY="0" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0013" x="6924" y="0" width="495" height="673" frameX="-15" frameY="0" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltIdle0014" x="6924" y="0" width="495" height="673" frameX="-15" frameY="0" frameWidth="537" frameHeight="673"/>
+	<SubTexture name="BossAltLeft0000" x="7419" y="0" width="466" height="678" frameX="-10" frameY="0" frameWidth="502" frameHeight="678"/>
+	<SubTexture name="BossAltLeft0001" x="0" y="678" width="485" height="678" frameX="-9" frameY="0" frameWidth="502" frameHeight="678"/>
+	<SubTexture name="BossAltLeft0002" x="485" y="678" width="499" height="678" frameX="-2" frameY="0" frameWidth="502" frameHeight="678"/>
+	<SubTexture name="BossAltLeft0003" x="984" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltLeft0004" x="1486" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltLeft0005" x="1988" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltLeft0006" x="1988" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltLeft0007" x="1988" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltLeft0008" x="1988" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltLeft0009" x="1988" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltLeft0010" x="1988" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltLeft0011" x="1988" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltLeft0012" x="1988" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltLeft0013" x="1988" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltLeft0014" x="1988" y="678" width="502" height="678"/>
+	<SubTexture name="BossAltRight0000" x="2490" y="678" width="533" height="680" frameX="-5" frameY="0" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0001" x="3023" y="678" width="523" height="676" frameX="-1" frameY="-4" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0002" x="3546" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0003" x="4063" y="678" width="516" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0004" x="4579" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0005" x="5096" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0006" x="5096" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0007" x="5096" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0008" x="5096" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0009" x="5096" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0010" x="5096" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0011" x="5096" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0012" x="5096" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0013" x="5096" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltRight0014" x="5096" y="678" width="517" height="675" frameX="0" frameY="-5" frameWidth="538" frameHeight="680"/>
+	<SubTexture name="BossAltUp0000" x="5613" y="678" width="562" height="688"/>
+	<SubTexture name="BossAltUp0001" x="6175" y="678" width="540" height="683" frameX="-7" frameY="-5" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0002" x="6715" y="678" width="532" height="682" frameX="-10" frameY="-6" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0003" x="7247" y="678" width="533" height="681" frameX="-10" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0004" x="0" y="1366" width="532" height="681" frameX="-11" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0005" x="532" y="1366" width="532" height="681" frameX="-11" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0006" x="1064" y="1366" width="532" height="681" frameX="-11" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0007" x="1596" y="1366" width="532" height="681" frameX="-11" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0008" x="1596" y="1366" width="532" height="681" frameX="-11" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0009" x="1596" y="1366" width="532" height="681" frameX="-11" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0010" x="1596" y="1366" width="532" height="681" frameX="-11" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0011" x="1596" y="1366" width="532" height="681" frameX="-11" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0012" x="1596" y="1366" width="532" height="681" frameX="-11" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0013" x="1596" y="1366" width="532" height="681" frameX="-11" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAltUp0014" x="1596" y="1366" width="532" height="681" frameX="-11" frameY="-7" frameWidth="562" frameHeight="688"/>
+	<SubTexture name="BossAwaken0000" x="2128" y="1366" width="451" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0001" x="2128" y="1366" width="451" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0002" x="2128" y="1366" width="451" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0003" x="2128" y="1366" width="451" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0004" x="2128" y="1366" width="451" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0005" x="2128" y="1366" width="451" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0006" x="2128" y="1366" width="451" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0007" x="2128" y="1366" width="451" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0008" x="2128" y="1366" width="451" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0009" x="2128" y="1366" width="451" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0010" x="2579" y="1366" width="477" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0011" x="3056" y="1366" width="485" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0012" x="3541" y="1366" width="488" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0013" x="4029" y="1366" width="511" height="673" frameX="0" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossAwaken0014" x="4540" y="1366" width="526" height="673"/>
+	<SubTexture name="BossDown0000" x="5066" y="1366" width="511" height="659" frameX="0" frameY="-5" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0001" x="5577" y="1366" width="495" height="663" frameX="-9" frameY="-1" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0002" x="6072" y="1366" width="489" height="664" frameX="-12" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0003" x="6561" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0004" x="6561" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0005" x="7048" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0006" x="7048" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0007" x="7048" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0008" x="7048" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0009" x="7048" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0010" x="7048" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0011" x="7048" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0012" x="7048" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0013" x="7048" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossDown0014" x="7048" y="1366" width="487" height="664" frameX="-13" frameY="0" frameWidth="511" frameHeight="664"/>
+	<SubTexture name="BossIdle0000" x="7535" y="1366" width="501" height="662" frameX="0" frameY="-11" frameWidth="501" frameHeight="673"/>
+	<SubTexture name="BossIdle0001" x="0" y="2047" width="467" height="668" frameX="-9" frameY="-5" frameWidth="501" frameHeight="673"/>
+	<SubTexture name="BossIdle0002" x="467" y="2047" width="457" height="670" frameX="-15" frameY="-3" frameWidth="501" frameHeight="673"/>
+	<SubTexture name="BossIdle0003" x="924" y="2047" width="455" height="671" frameX="-15" frameY="-2" frameWidth="501" frameHeight="673"/>
+	<SubTexture name="BossIdle0004" x="1379" y="2047" width="453" height="672" frameX="-15" frameY="-1" frameWidth="501" frameHeight="673"/>
+	<SubTexture name="BossIdle0005" x="1832" y="2047" width="452" height="673" frameX="-15" frameY="0" frameWidth="501" frameHeight="673"/>
+	<SubTexture name="BossIdle0006" x="2284" y="2047" width="451" height="673" frameX="-15" frameY="0" frameWidth="501" frameHeight="673"/>
+	<SubTexture name="BossIdle0007" x="2128" y="1366" width="451" height="673" frameX="-15" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossIdle0008" x="2128" y="1366" width="451" height="673" frameX="-15" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossIdle0009" x="2128" y="1366" width="451" height="673" frameX="-15" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossIdle0010" x="2128" y="1366" width="451" height="673" frameX="-15" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossIdle0011" x="2128" y="1366" width="451" height="673" frameX="-15" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossIdle0012" x="2128" y="1366" width="451" height="673" frameX="-15" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossIdle0013" x="2128" y="1366" width="451" height="673" frameX="-15" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossIdle0014" x="2128" y="1366" width="451" height="673" frameX="-15" frameY="0" frameWidth="526" frameHeight="673"/>
+	<SubTexture name="BossLeft0000" x="2735" y="2047" width="466" height="678" frameX="-10" frameY="0" frameWidth="502" frameHeight="678"/>
+	<SubTexture name="BossLeft0001" x="3201" y="2047" width="485" height="678" frameX="-9" frameY="0" frameWidth="502" frameHeight="678"/>
+	<SubTexture name="BossLeft0002" x="3686" y="2047" width="499" height="678" frameX="-2" frameY="0" frameWidth="502" frameHeight="678"/>
+	<SubTexture name="BossLeft0003" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossLeft0004" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossLeft0005" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossLeft0006" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossLeft0007" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossLeft0008" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossLeft0009" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossLeft0010" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossLeft0011" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossLeft0012" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossLeft0013" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossLeft0014" x="4185" y="2047" width="502" height="678"/>
+	<SubTexture name="BossRight0000" x="4687" y="2047" width="455" height="680" frameX="-5" frameY="0" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0001" x="5142" y="2047" width="456" height="676" frameX="-1" frameY="-4" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0002" x="5598" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0003" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0004" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0005" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0006" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0007" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0008" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0009" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0010" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0011" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0012" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0013" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossRight0014" x="6054" y="2047" width="456" height="675" frameX="0" frameY="-5" frameWidth="460" frameHeight="680"/>
+	<SubTexture name="BossUp0000" x="6510" y="2047" width="480" height="688"/>
+	<SubTexture name="BossUp0001" x="6990" y="2047" width="465" height="683" frameX="-7" frameY="-5" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0002" x="7455" y="2047" width="458" height="682" frameX="-10" frameY="-6" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0003" x="0" y="2735" width="457" height="681" frameX="-10" frameY="-7" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0004" x="457" y="2735" width="456" height="681" frameX="-11" frameY="-7" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0005" x="457" y="2735" width="456" height="681" frameX="-11" frameY="-7" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0006" x="457" y="2735" width="456" height="681" frameX="-11" frameY="-7" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0007" x="457" y="2735" width="456" height="681" frameX="-11" frameY="-7" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0008" x="457" y="2735" width="456" height="681" frameX="-11" frameY="-7" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0009" x="457" y="2735" width="456" height="681" frameX="-11" frameY="-7" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0010" x="457" y="2735" width="456" height="681" frameX="-11" frameY="-7" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0011" x="457" y="2735" width="456" height="681" frameX="-11" frameY="-7" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0012" x="457" y="2735" width="456" height="681" frameX="-11" frameY="-7" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0013" x="457" y="2735" width="456" height="681" frameX="-11" frameY="-7" frameWidth="480" frameHeight="688"/>
+	<SubTexture name="BossUp0014" x="457" y="2735" width="456" height="681" frameX="-11" frameY="-7" frameWidth="480" frameHeight="688"/>
+</TextureAtlas>
