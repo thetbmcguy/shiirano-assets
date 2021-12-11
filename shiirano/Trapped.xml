@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Trapped.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GPOP2Down0000" x="0" y="0" width="671" height="940" frameX="-114" frameY="-1" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0001" x="671" y="0" width="707" height="940" frameX="-78" frameY="-1" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0002" x="1378" y="0" width="722" height="940" frameX="-63" frameY="-1" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0003" x="2100" y="0" width="732" height="940" frameX="-53" frameY="-1" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0004" x="2832" y="0" width="741" height="940" frameX="-44" frameY="-1" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0005" x="3573" y="0" width="748" height="941" frameX="-37" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0006" x="4321" y="0" width="754" height="941" frameX="-31" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0007" x="5075" y="0" width="760" height="941" frameX="-25" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0008" x="5835" y="0" width="764" height="941" frameX="-21" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0009" x="6599" y="0" width="768" height="941" frameX="-17" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0010" x="7367" y="0" width="772" height="941" frameX="-13" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0011" x="0" y="941" width="775" height="941" frameX="-10" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0012" x="775" y="941" width="777" height="941" frameX="-8" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0013" x="1552" y="941" width="780" height="941" frameX="-5" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0014" x="2332" y="941" width="781" height="941" frameX="-4" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0015" x="3113" y="941" width="783" height="941" frameX="-2" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0016" x="3896" y="941" width="784" height="941" frameX="-1" frameY="0" frameWidth="785" frameHeight="941"/>
+	<SubTexture name="GPOP2Down0017" x="4680" y="941" width="785" height="941"/>
+	<SubTexture name="GPOP2Down0018" x="4680" y="941" width="785" height="941"/>
+	<SubTexture name="GPOP2Down0019" x="4680" y="941" width="785" height="941"/>
+	<SubTexture name="GPOP2Idle0000" x="5465" y="941" width="666" height="992" frameX="-5" frameY="0" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0001" x="6131" y="941" width="665" height="992" frameX="-3" frameY="0" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0002" x="6796" y="941" width="683" height="992" frameX="-3" frameY="0" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0003" x="7479" y="941" width="696" height="992" frameX="-3" frameY="0" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0004" x="0" y="1933" width="706" height="992" frameX="-3" frameY="0" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0005" x="706" y="1933" width="713" height="992" frameX="-3" frameY="0" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0006" x="1419" y="1933" width="720" height="992" frameX="-1" frameY="0" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0007" x="2139" y="1933" width="724" height="992" frameX="0" frameY="0" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0008" x="2863" y="1933" width="727" height="992"/>
+	<SubTexture name="GPOP2Idle0009" x="3590" y="1933" width="727" height="992"/>
+	<SubTexture name="GPOP2Idle0010" x="4317" y="1933" width="622" height="987" frameX="-1" frameY="-5" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0011" x="4939" y="1933" width="621" height="987" frameX="-2" frameY="-5" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0012" x="5560" y="1933" width="619" height="986" frameX="-3" frameY="-6" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0013" x="6179" y="1933" width="619" height="986" frameX="-3" frameY="-6" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0014" x="6798" y="1933" width="618" height="985" frameX="-3" frameY="-7" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0015" x="7416" y="1933" width="618" height="984" frameX="-3" frameY="-8" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0016" x="0" y="2925" width="618" height="984" frameX="-3" frameY="-8" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0017" x="0" y="2925" width="618" height="984" frameX="-3" frameY="-8" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0018" x="0" y="2925" width="618" height="984" frameX="-3" frameY="-8" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Idle0019" x="0" y="2925" width="618" height="984" frameX="-3" frameY="-8" frameWidth="727" frameHeight="992"/>
+	<SubTexture name="GPOP2Left0000" x="618" y="2925" width="694" height="1009" frameX="-132" frameY="0" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0001" x="1312" y="2925" width="731" height="1009" frameX="-90" frameY="0" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0002" x="2043" y="2925" width="749" height="1009" frameX="-73" frameY="0" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0003" x="2792" y="2925" width="762" height="1008" frameX="-61" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0004" x="3554" y="2925" width="772" height="1008" frameX="-51" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0005" x="4326" y="2925" width="781" height="1008" frameX="-43" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0006" x="5107" y="2925" width="788" height="1008" frameX="-36" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0007" x="5895" y="2925" width="794" height="1008" frameX="-30" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0008" x="6689" y="2925" width="799" height="1008" frameX="-25" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0009" x="0" y="3934" width="804" height="1008" frameX="-20" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0010" x="804" y="3934" width="808" height="1008" frameX="-16" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0011" x="1612" y="3934" width="811" height="1008" frameX="-13" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0012" x="2423" y="3934" width="814" height="1008" frameX="-10" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0013" x="3237" y="3934" width="817" height="1008" frameX="-7" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0014" x="4054" y="3934" width="819" height="1008" frameX="-5" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0015" x="4873" y="3934" width="821" height="1008" frameX="-3" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0016" x="5694" y="3934" width="822" height="1008" frameX="-2" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0017" x="6516" y="3934" width="823" height="1008" frameX="-1" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0018" x="6516" y="3934" width="823" height="1008" frameX="-1" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Left0019" x="6516" y="3934" width="823" height="1008" frameX="0" frameY="-1" frameWidth="826" frameHeight="1009"/>
+	<SubTexture name="GPOP2Right0000" x="7339" y="3934" width="661" height="1040" frameX="0" frameY="0" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0001" x="0" y="4974" width="683" height="1040" frameX="-2" frameY="0" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0002" x="683" y="4974" width="694" height="1040" frameX="-1" frameY="0" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0003" x="1377" y="4974" width="702" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0004" x="2079" y="4974" width="708" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0005" x="2787" y="4974" width="712" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0006" x="3499" y="4974" width="717" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0007" x="4216" y="4974" width="720" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0008" x="4936" y="4974" width="723" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0009" x="5659" y="4974" width="726" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0010" x="6385" y="4974" width="728" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0011" x="7113" y="4974" width="730" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0012" x="0" y="6014" width="732" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0013" x="732" y="6014" width="733" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0014" x="1465" y="6014" width="735" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0015" x="2200" y="6014" width="736" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0016" x="2936" y="6014" width="736" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0017" x="3672" y="6014" width="737" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0018" x="3672" y="6014" width="737" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Right0019" x="3672" y="6014" width="737" height="1039" frameX="0" frameY="-1" frameWidth="737" frameHeight="1040"/>
+	<SubTexture name="GPOP2Up0000" x="4409" y="6014" width="675" height="1045" frameX="0" frameY="0" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0001" x="5084" y="6014" width="708" height="1045" frameX="-2" frameY="0" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0002" x="5792" y="6014" width="719" height="1044" frameX="-5" frameY="0" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0003" x="6511" y="6014" width="728" height="1044" frameX="-6" frameY="-1" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0004" x="7239" y="6014" width="735" height="1044" frameX="-7" frameY="-1" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0005" x="0" y="7059" width="741" height="1044" frameX="-7" frameY="-1" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0006" x="741" y="7059" width="747" height="1044" frameX="-7" frameY="-1" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0007" x="1488" y="7059" width="752" height="1044" frameX="-7" frameY="-1" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0008" x="2240" y="7059" width="756" height="1044" frameX="-7" frameY="-1" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0009" x="2996" y="7059" width="760" height="1044" frameX="-7" frameY="-1" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0010" x="3756" y="7059" width="764" height="1044" frameX="-7" frameY="-1" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0011" x="4520" y="7059" width="766" height="1044" frameX="-7" frameY="-1" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0012" x="5286" y="7059" width="769" height="1044" frameX="-7" frameY="-1" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0013" x="6055" y="7059" width="771" height="1044" frameX="-7" frameY="-1" frameWidth="783" frameHeight="1045"/>
+	<SubTexture name="GPOP2Up0014" x="6826" y="7059" width="773" height="1044" frameX="-7" frameY="-1" frameWidth="783" frameHeight="1045"/>
+</TextureAtlas>
