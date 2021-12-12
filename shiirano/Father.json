@@ -1,0 +1,22 @@
+{
+	"songs": [
+    ["daddys-girl", "DZIP_Assets", [146, 113, 253]],
+		["daughter-complex", "DadZIP_Assets", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"DZIP_Assets",
+		"DadZIP_Assets",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "Week1Map",
+
+	"storyName": "UHHHHHH",
+	"weekBefore": "Tutorial",
+	"weekName": "Father",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
