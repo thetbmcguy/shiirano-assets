@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DZIP_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DadZIPDown0000" x="0" y="0" width="1023" height="962" frameX="0" frameY="-7" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0001" x="1023" y="0" width="996" height="967" frameX="-9" frameY="-2" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0002" x="2019" y="0" width="988" height="968" frameX="-11" frameY="-1" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0003" x="3007" y="0" width="981" height="967" frameX="-13" frameY="-1" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0004" x="3988" y="0" width="977" height="968" frameX="-15" frameY="-1" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0005" x="4965" y="0" width="975" height="968" frameX="-15" frameY="0" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0006" x="5940" y="0" width="974" height="969" frameX="-16" frameY="0" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0007" x="5940" y="0" width="974" height="969" frameX="-16" frameY="0" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0008" x="5940" y="0" width="974" height="969" frameX="-16" frameY="0" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0009" x="5940" y="0" width="974" height="969" frameX="-16" frameY="0" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0010" x="5940" y="0" width="974" height="969" frameX="-16" frameY="0" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0011" x="5940" y="0" width="974" height="969" frameX="-16" frameY="0" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0012" x="5940" y="0" width="974" height="969" frameX="-16" frameY="0" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0013" x="5940" y="0" width="974" height="969" frameX="-16" frameY="0" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPDown0014" x="5940" y="0" width="974" height="969" frameX="-16" frameY="0" frameWidth="1023" frameHeight="969"/>
+	<SubTexture name="DadZIPIdle0000" x="6914" y="0" width="843" height="1027" frameX="0" frameY="0" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0001" x="0" y="1027" width="968" height="1026" frameX="-4" frameY="-1" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0002" x="968" y="1027" width="962" height="1026" frameX="-6" frameY="-1" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0003" x="1930" y="1027" width="857" height="1025" frameX="-8" frameY="-2" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0004" x="2787" y="1027" width="841" height="1025" frameX="-9" frameY="-2" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0005" x="3628" y="1027" width="842" height="1026" frameX="-9" frameY="-1" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0006" x="4470" y="1027" width="845" height="1027" frameX="-9" frameY="0" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0007" x="5315" y="1027" width="876" height="1027" frameX="-9" frameY="0" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0008" x="5315" y="1027" width="876" height="1027" frameX="-9" frameY="0" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0009" x="6191" y="1027" width="842" height="1026" frameX="-9" frameY="-1" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0010" x="7033" y="1027" width="842" height="1025" frameX="-9" frameY="-2" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0011" x="0" y="2054" width="842" height="1025" frameX="-9" frameY="-2" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0012" x="0" y="2054" width="842" height="1025" frameX="-9" frameY="-2" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0013" x="0" y="2054" width="842" height="1025" frameX="-9" frameY="-2" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPIdle0014" x="0" y="2054" width="842" height="1025" frameX="-9" frameY="-2" frameWidth="972" frameHeight="1027"/>
+	<SubTexture name="DadZIPLeft0000" x="842" y="2054" width="1025" height="1029"/>
+	<SubTexture name="DadZIPLeft0001" x="1867" y="2054" width="997" height="1026" frameX="-11" frameY="-3" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0002" x="2864" y="2054" width="987" height="1026" frameX="-15" frameY="-3" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0003" x="3851" y="2054" width="981" height="1025" frameX="-17" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0004" x="4832" y="2054" width="976" height="1025" frameX="-19" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0005" x="5808" y="2054" width="974" height="1025" frameX="-20" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0006" x="6782" y="2054" width="973" height="1025" frameX="-20" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0007" x="6782" y="2054" width="973" height="1025" frameX="-20" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0008" x="6782" y="2054" width="973" height="1025" frameX="-20" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0009" x="6782" y="2054" width="973" height="1025" frameX="-20" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0010" x="6782" y="2054" width="973" height="1025" frameX="-20" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0011" x="6782" y="2054" width="973" height="1025" frameX="-20" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0012" x="6782" y="2054" width="973" height="1025" frameX="-20" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0013" x="6782" y="2054" width="973" height="1025" frameX="-20" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPLeft0014" x="6782" y="2054" width="973" height="1025" frameX="-20" frameY="-4" frameWidth="1025" frameHeight="1029"/>
+	<SubTexture name="DadZIPRight0000" x="0" y="3083" width="900" height="1036" frameX="-11" frameY="0" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0001" x="900" y="3083" width="858" height="1030" frameX="-5" frameY="-6" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0002" x="1758" y="3083" width="858" height="1027" frameX="-3" frameY="-9" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0003" x="2616" y="3083" width="860" height="1026" frameX="-2" frameY="-10" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0004" x="3476" y="3083" width="861" height="1025" frameX="-1" frameY="-11" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0005" x="4337" y="3083" width="862" height="1025" frameX="0" frameY="-11" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0006" x="5199" y="3083" width="862" height="1025" frameX="0" frameY="-11" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0007" x="5199" y="3083" width="862" height="1025" frameX="0" frameY="-11" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0008" x="5199" y="3083" width="862" height="1025" frameX="0" frameY="-11" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0009" x="5199" y="3083" width="862" height="1025" frameX="0" frameY="-11" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0010" x="5199" y="3083" width="862" height="1025" frameX="0" frameY="-11" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0011" x="5199" y="3083" width="862" height="1025" frameX="0" frameY="-11" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0012" x="5199" y="3083" width="862" height="1025" frameX="0" frameY="-11" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0013" x="5199" y="3083" width="862" height="1025" frameX="0" frameY="-11" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPRight0014" x="5199" y="3083" width="862" height="1025" frameX="0" frameY="-11" frameWidth="911" frameHeight="1036"/>
+	<SubTexture name="DadZIPUp0000" x="6061" y="3083" width="919" height="1077"/>
+	<SubTexture name="DadZIPUp0001" x="6980" y="3083" width="903" height="1068" frameX="-4" frameY="-9" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0002" x="0" y="4160" width="898" height="1065" frameX="-5" frameY="-12" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0003" x="898" y="4160" width="896" height="1063" frameX="-5" frameY="-14" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0004" x="1794" y="4160" width="893" height="1062" frameX="-6" frameY="-15" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0005" x="2687" y="4160" width="892" height="1061" frameX="-6" frameY="-16" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0006" x="3579" y="4160" width="892" height="1061" frameX="-6" frameY="-16" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0007" x="3579" y="4160" width="892" height="1061" frameX="-6" frameY="-16" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0008" x="3579" y="4160" width="892" height="1061" frameX="-6" frameY="-16" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0009" x="3579" y="4160" width="892" height="1061" frameX="-6" frameY="-16" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0010" x="3579" y="4160" width="892" height="1061" frameX="-6" frameY="-16" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0011" x="3579" y="4160" width="892" height="1061" frameX="-6" frameY="-16" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0012" x="3579" y="4160" width="892" height="1061" frameX="-6" frameY="-16" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0013" x="3579" y="4160" width="892" height="1061" frameX="-6" frameY="-16" frameWidth="919" frameHeight="1077"/>
+	<SubTexture name="DadZIPUp0014" x="3579" y="4160" width="892" height="1061" frameX="-6" frameY="-16" frameWidth="919" frameHeight="1077"/>
+</TextureAtlas>

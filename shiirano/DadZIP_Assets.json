@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DadZIPIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				142
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DadZIPLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DadZIPDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				175
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DadZIPUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				147
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DadZIPRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				140
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "DadZIPIdle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				16,
+				142
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "DadZIPLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				147
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "DadZIPRight",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				76,
+				175
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "DadZIPUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/DadZIP_Assets",
+	"position": [
+		-250,
+		15
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
