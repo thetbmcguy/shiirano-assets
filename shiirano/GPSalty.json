@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				85,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SaltyIdle"
+		},
+		{
+			"offsets": [
+				57,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SaltyLeft"
+		},
+		{
+			"offsets": [
+				47,
+				154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SaltyDown"
+		},
+		{
+			"offsets": [
+				42,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SaltyUp"
+		},
+		{
+			"offsets": [
+				42,
+				184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SaltyRight"
+		},
+		{
+			"offsets": [
+				57,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "SaltyLMiss"
+		},
+		{
+			"offsets": [
+				47,
+				154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "SaltyDMiss"
+		},
+		{
+			"offsets": [
+				42,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "SaltyUMiss"
+		},
+		{
+			"offsets": [
+				42,
+				184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "SaltyRMiss"
+		},
+		{
+			"offsets": [
+				85,
+				184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "SaltyHey"
+		},
+		{
+			"offsets": [
+				63,
+				135
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "SaltyShaking"
+		},
+		{
+			"offsets": [
+				113,
+				167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "SaltyDies"
+		},
+		{
+			"offsets": [
+				108,
+				163
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "SaltyDeadLoop"
+		},
+		{
+			"offsets": [
+				108,
+				201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "SaltyRetryConfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GPSalty",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		120,
+		10,
+		10
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
